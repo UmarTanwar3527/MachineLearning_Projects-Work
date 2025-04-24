@@ -8,9 +8,11 @@ Welcome to my curated collection of machine learning projects! Each project demo
 
 | Project                         | Description                                                | Tech Stack                          |
 |--------------------------------|------------------------------------------------------------|-------------------------------------|
-| [Sentiment Analysis](./Sentiment-Analysis) | Classifies tweets/reviews as positive or negative          | NLP, TF-IDF, Logistic Regression    |
-| [Milk Quality Prediction](./Milk-Quality-Prediction) | Predicts the quality of milk based on chemical attributes | Random Forest, Data Cleaning        |
-| [Placement Predictor](./Placement-Predictor) | Predicts if a student will get placed                     | Decision Tree, Exploratory Analysis |
+| [Sentiment Analysis](https://github.com/UmarTanwar3527/NLPsentimentanalysisProject5) | Classifies tweets/reviews as positive or negative          | NLP, TF-IDF, Logistic Regression    |
+| [Milk Quality Prediction](https://github.com/UmarTanwar3527/Milk-Quality-Prediction) | Predicts the quality of milk based on chemical attributes | Random Forest, Data Cleaning        |
+| [Placement Predictor](https://github.com/UmarTanwar3527/PlacementAnalysisProject6) | Predicts if a student will get placed                     | Decision Tree, Exploratory Analysis |
+| [House Price Predictor](https://github.com/UmarTanwar3527/houseproject2) | Predicts price of a House                  | Classification, Logistic Regression |
+| [Brain-Stoke-Predictor](https://github.com/UmarTanwar3527/Brain-Stoke-Prediction) | Predicts if a person can have Brain Stoke              | Linear Regression, Feature Scaling, Data Cleaning |
 
 ---
 
