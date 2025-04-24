@@ -14,6 +14,8 @@ Welcome to my curated collection of machine learning projects! Each project demo
 | [House Price Predictor](https://github.com/UmarTanwar3527/houseproject2) | Predicts price of a House                  | Classification, Logistic Regression |
 | [Brain-Stoke-Predictor](https://github.com/UmarTanwar3527/Brain-Stoke-Prediction) | Predicts if a person can have Brain Stoke              | Linear Regression, Feature Scaling, Data Cleaning |
 
+| I have created some more. | 
+
 ---
 
 ## 🚀 Tech Stack
